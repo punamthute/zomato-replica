@@ -19,7 +19,6 @@
   display: -ms-flexbox;
   display: flex;
   list-style: none;
-  padding: 15px;
 }
 
 .ul1 a {
@@ -103,7 +102,7 @@ a {
           justify-content: center;
 }
 
-.banner .con1 #search-res {
+.banner .con1 #search-rest {
   border-radius: 20px;
   padding: 3px;
   padding-left: 20px;

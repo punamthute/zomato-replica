@@ -17,7 +17,7 @@
   float: right;
   display: flex;
   list-style: none;
-  padding: 15px;
+  
   a {
     padding: 10px;
     color: black;
@@ -83,7 +83,7 @@ a {
   .con1 {
     display: flex;
     justify-content: center;
-    #search-res {
+    #search-rest {
       border-radius: 20px;
       padding: 3px;
       padding-left: 20px;
