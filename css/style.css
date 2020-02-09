@@ -178,28 +178,28 @@ a {
   padding: 25px;
 }
 
-.cl6 {
+.widget {
   margin: 2rem;
 }
 
-.cl6 .search-del {
+.widget .search-del {
   border-radius: 5px;
   padding-left: 20px;
   margin: 20px 10px 20px 0px;
   width: 270px;
 }
 
-.cl6 .detect-btn {
+.widget .detect-btn {
   width: 55px;
   border-radius: 1px;
 }
 
-.cl6 .detect-btn:hover {
+.widget .detect-btn:hover {
   background-color: #bb222f;
   border-radius: 4px;
 }
 
-.cl6 .order-btn {
+.widget .order-btn {
   margin: 15px;
   margin-top: 0px;
   margin-left: 1px;
@@ -209,7 +209,7 @@ a {
   background-color: rgba(4, 78, 4, 0.8);
 }
 
-.cl6 .order-btn:hover {
+.widget .order-btn:hover {
   background-color: rgba(13, 82, 13, 0.5);
   border-radius: 4px;
 }
@@ -218,7 +218,7 @@ a {
   margin: 20px;
 }
 
-#category-list {
+.category-list {
   background-color: white;
   height: 150px;
   width: 96%;
@@ -229,12 +229,12 @@ a {
   list-style-type: none;
 }
 
-#category-list > p {
+.category-list > p {
   margin-top: 100px;
   margin-left: -80px;
 }
 
-#category-list > li {
+.category-list > li {
   margin-top: 5px;
   margin-left: 60px;
 }
@@ -347,5 +347,9 @@ a {
 
 .span li {
   margin-left: 90px;
+}
+
+#cat-title {
+  margin-top: 430px;
 }
 /*# sourceMappingURL=style.css.map */

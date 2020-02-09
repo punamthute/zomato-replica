@@ -151,7 +151,7 @@ a {
   margin-top: 40px;
   padding: 25px;
 }
-.cl6{
+.widget{
   margin: 2rem;
   .search-del{
     border-radius:5px;
@@ -186,7 +186,7 @@ a {
     }
 
   }
- 
+
 
 }
 .localities{
@@ -194,7 +194,7 @@ a {
     margin: 20px;
   }
 }
-#category-list
+.category-list
 {
  background-color: white;
   height: 150px;
@@ -204,14 +204,14 @@ a {
   list-style-type: none;
   
 }
-#category-list>p{
+.category-list>p{
   margin-top: 100px;
   margin-left: -80px;
 
   
  
 }
-#category-list>li{
+.category-list>li{
   margin-top: 5px;
   margin-left: 60px;
   
@@ -314,4 +314,9 @@ a {
  }
  .span li{
    margin-left: 90px;
+ }
+ #cat-title
+ {
+     margin-top: 430px;
+    
  }
