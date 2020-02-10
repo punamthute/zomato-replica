@@ -370,4 +370,9 @@ a {
 #cat-title {
   margin-top: 450px;
 }
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
