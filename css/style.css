@@ -118,7 +118,7 @@ a {
   border-radius: 5px;
 }
 
-.banner .con1 .search-btn {
+.banner .con1 .btn search-btn {
   margin: 15px;
   margin-left: 1px;
   height: 35px;
@@ -127,7 +127,7 @@ a {
   background-color: #cb202d;
 }
 
-.banner .con1 .search-btn:hover {
+.banner .con1 .btn search-btn:hover {
   background-color: #e9535f;
   border-radius: 5px;
   height: 37px;
