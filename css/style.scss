@@ -97,7 +97,7 @@ a {
       width: 90px;
       border-radius: 5px;
     }
-    .btn search-btn {
+    .btn {
       margin: 15px;
       margin-left: 1px;
       height: 35px;
@@ -113,12 +113,15 @@ a {
   }
 }
 .cl9{
-  margin-top: 0px;
-  background-image: linear-gradient(rgba(253, 253, 253,0.5) 1%, rgb(179, 178, 178) 99%);
+ 
+  background-color:#babdc2 ;
+  margin-top: -37px;
+  
+ 
 }
 .cl4 {
   width: 100px;
-  height: 100px;
+  height: 90px;
   float: left;
   margin: 10px;
 }
@@ -230,18 +233,39 @@ a {
   justify-content: center;
   border-radius: 5px;
 }
-.cl12{
-  padding: 20px;
-}
-.cl13{
+.locality-list{
   background-color: white;
-  margin: 20px;
-  border-radius: 5px;
+  height: 400px;
+  width: 96%;
+  margin-left: 30px;
+  list-style-type: none;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+.locality-list1
+{
+    margin-left: 500px;
+    margin-top: -380px;
+    list-style-type: none;
+}
+.locality-list2
+{
+    margin-left: 1000px;
+    margin-top: -250px;
+    list-style-type: none;
+}
+
+.block{
+  background-color: white;
+  height: 500px;
+  width: 96%;
+  margin-left: 30px;
+  margin-top: 130px;
   .cl14{
     width: 300px;
     height: auto;
     float: left;
-    margin:40px;
+    margin-top: 30px;
     
   }
   h2{

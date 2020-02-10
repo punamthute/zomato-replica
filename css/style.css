@@ -118,7 +118,7 @@ a {
   border-radius: 5px;
 }
 
-.banner .con1 .btn search-btn {
+.banner .con1 .btn {
   margin: 15px;
   margin-left: 1px;
   height: 35px;
@@ -127,21 +127,20 @@ a {
   background-color: #cb202d;
 }
 
-.banner .con1 .btn search-btn:hover {
+.banner .con1 .btn:hover {
   background-color: #e9535f;
   border-radius: 5px;
   height: 37px;
 }
 
 .cl9 {
-  margin-top: 0px;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1%, rgba(253, 253, 253, 0.5)), color-stop(99%, #b3b2b2));
-  background-image: linear-gradient(rgba(253, 253, 253, 0.5) 1%, #b3b2b2 99%);
+  background-color: #babdc2;
+  margin-top: -37px;
 }
 
 .cl4 {
   width: 100px;
-  height: 100px;
+  height: 90px;
   float: left;
   margin: 10px;
 }
@@ -252,43 +251,63 @@ a {
   border-radius: 5px;
 }
 
-.cl12 {
-  padding: 20px;
-}
-
-.cl13 {
+.locality-list {
   background-color: white;
-  margin: 20px;
-  border-radius: 5px;
+  height: 400px;
+  width: 96%;
+  margin-left: 30px;
+  list-style-type: none;
+  padding-left: 40px;
+  padding-top: 40px;
 }
 
-.cl13 .cl14 {
+.locality-list1 {
+  margin-left: 500px;
+  margin-top: -380px;
+  list-style-type: none;
+}
+
+.locality-list2 {
+  margin-left: 1000px;
+  margin-top: -250px;
+  list-style-type: none;
+}
+
+.block {
+  background-color: white;
+  height: 500px;
+  width: 96%;
+  margin-left: 30px;
+  margin-top: 130px;
+}
+
+.block .cl14 {
   width: 300px;
   height: auto;
   float: left;
-  margin: 40px;
+  margin-top: 30px;
 }
 
-.cl13 h2 {
+.block h2 {
   padding: 44px;
 }
 
-.cl13 #id6 {
+.block #id6 {
   width: 500px;
 }
 
-.cl13 #id7 {
+.block #id7 {
   border-radius: 0px 5px 5px 0px;
   background-color: rgba(4, 78, 4, 0.8);
   color: white;
 }
 
-.cl13 #id7:hover {
+.block #id7:hover {
   background-color: rgba(13, 82, 13, 0.5);
   border-radius: 4px;
 }
 
-.cl13 #id9 {
+.block #id9 {
   width: 180px;
   height: 60px;
   margin: 20px;
