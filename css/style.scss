@@ -310,20 +310,8 @@ a {
   background-color: black;
   height: 700px;
 }
-.column
-{
-  color: white;
-  margin-top: -560px;
-  padding-left: 80px;
-  list-style-type: none;
-}
-.column1
-{
-  color: white;
-  margin-top: -360px;
-  padding-left: 150px;
-  list-style-type: none;
-}
+
+
 
 .cl21
 {
@@ -346,8 +334,18 @@ a {
    
      
  }
- /* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
-  }
-  
+ .column {
+  color: white;
+  margin-top: -560px;
+  padding-left: 80px;
+  list-style-type: none;
+}
+
+.column1 {
+  color: white;
+  margin-top: -360px;
+  padding-left: 150px;
+  list-style-type: none;
+}
+ 
+ 
